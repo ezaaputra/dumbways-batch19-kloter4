@@ -35,11 +35,12 @@ localhost/dumbways-batch19-kloter4-main
 
 ## Khusus Nomor 4
 
+```
 Buat database dengan nama music_db
 Import file C:\xampp\htdocs\dumbways-batch19-kloter4-main\4\database\music_db.sql ke phpmyadmin
 Sesuaikan username dan password user pada C:\xampp\htdocs\dumbways-batch19-kloter4-main\4\resources\config.php
 akses localhost/dumbways-batch19-kloter4-main/4 pada browser
-
+```
 
 
 ## License
